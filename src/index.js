@@ -1,9 +1,9 @@
 import React from "react"
 import ReactDOM from "react-dom"
 import "./functionBased/App.css"
+import App from "./functionBased/components/App"
 
-import TodoContainer from "./functionBased/components/TodoContainer"
 ReactDOM.render(
   <React.StrictMode>
-    <TodoContainer />
+    <App />
   </React.StrictMode>, document.getElementById("root"))
