@@ -1,6 +1,10 @@
-import React from "react"
-import ReactDOM from "react-dom"
+import React from 'react';
+import ReactDOM from 'react-dom';
+import './functionBased/App.css';
+import App from './functionBased/components/App';
 
-const element = <h1>Hello from Create React App</h1>
-
-ReactDOM.render(element, document.getElementById("root"))
+ReactDOM.render(
+  <React.StrictMode>
+    <App />
+  </React.StrictMode>, document.getElementById('root'),
+);
