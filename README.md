@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Math Magicians
+# To Do App
 
 > A react application that provides basic calculator functionalities
 
