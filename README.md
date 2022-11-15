@@ -18,7 +18,7 @@
 - Have a browser install on the Computer
 
 ### Demo and Documentation
-<!-- - [Live Demo](https://j-tee.github.io/my-calculator/dist/)
+- [Live Demo](https://j-tee.github.io/react-todo-app/)
 - [Project Documentation Link](https://drive.google.com) -->
 
 ### Setup
